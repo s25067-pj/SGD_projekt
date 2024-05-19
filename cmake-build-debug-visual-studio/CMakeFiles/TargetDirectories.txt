@@ -1,0 +1,3 @@
+C:/Users/debis/SGD_projekt/cmake-build-debug-visual-studio/CMakeFiles/untitled.dir
+C:/Users/debis/SGD_projekt/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/debis/SGD_projekt/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
